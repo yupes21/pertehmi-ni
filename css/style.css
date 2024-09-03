@@ -319,7 +319,7 @@ body {
 
 .pdf-container {
   width: 50%;
-  height: 60vh;
+  height: 30vh;
   border: 2px solid #ccc;
   border-radius: 10px;
   overflow: hidden;
@@ -434,7 +434,7 @@ footer {
 }
 
 footer .links p {
-  color: #eb13e0;
+  color: #ff64a2;
   margin-bottom: 6%;
   font-family: "Times New Roman", Times, serif;
   font-size: 3rem;
@@ -445,7 +445,7 @@ footer .links {
 }
 
 footer .links a {
-  color: #eb13e0;
+  color: #ff64a2;
   padding: 0.7rem 2rem;
   font-size: 1.3rem;
   border: 2px solid;
